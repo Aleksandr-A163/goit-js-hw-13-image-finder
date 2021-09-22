@@ -5,7 +5,7 @@ export default class newsApiService {
   }
 
   async fetchImages() {
-    const KEY = '23515062-e57009621e5a3c522e7f';
+    const KEY = '23515062-7934c938ce0e5818a24acf627';
 
     try {
       const response = await fetch(
